@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjunath.
 - 👀 I’m interested in Software testing.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Java Selenium.
 - 💞️ I’m looking to collaborate on software development and testing projects.
 - 📫 You can reach me through whatsapp number +91 8660134609
 -    My mail ID is "bmanjunath1994@gmail.com"
